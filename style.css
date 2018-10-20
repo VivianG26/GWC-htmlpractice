@@ -1,0 +1,19 @@
+body {
+	background-color: #ffdad6;
+}
+
+h1{
+	text-align:center;
+	font-family: "Courier New", monospace;
+}
+
+img{
+	hieght:25%;
+	width:25%;
+}
+
+ul.boop{
+	list-style-type: circle;
+	background-color: #d18f87;
+	margin-right: 740px;
+}
